@@ -1,0 +1,31 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Some people got on a bus at the terminal. At the first bus stop, half of the people got down and 4 more people got in. Then at the second bus stop, 6 people got down and 8 more got in. If there were a total of 25 people heading to the third stop, how many people got on the bus at the terminal?
+[answer1]:
+ Let's represent the number of people boarding the bus at the terminal as x.
+
+At the first bus stop, half of the people got down (x/2), and 4 more people got in. So, there were (x/2 - 4) people remaining on the bus.
+
+At the second bus stop, 6 people got down (x/2 - 4 - 6) and 8 more people got in. So, there were (x/2 - 4 - 6 + 8) people remaining on the bus.
+
+According to the statement, there were a total of 25 people heading to the third stop. Thus,
+
+x/2 - 4 - 6 + 8 = 25
+
+x/2 = 23
+
+x = 23 * 2 = 46
+
+So, 46 people got on the bus at the terminal.
+[refence1]:
+]38 people
+[question2]
+:If the ticket is $2 per person, how much is the total money earned by the bus?
+[answer2]
+: There were 46 people who got on the bus at the terminal. Since the ticket costs $2 per person, the total money earned by the bus is:
+
+46 people * $2 per person = $92
+
+The bus earned a total of $92 from the ticket sales.
+[refence2]:
+]Total number of passenger is 50 * 2 = $100

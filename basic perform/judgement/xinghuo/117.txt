@@ -1,0 +1,11 @@
+Evaluation for Question 1:
+
+The assistant's answer incorrectly states that there are 9 integers that satisfy the inequality |x + 5| < 10, and it lists the integers from -15 to -7. The correct solution is to find the integers between -15 and 5, inclusive. The reference answer correctly states that there are 19 integers that satisfy the inequality, which are the integers from -14 through 4. The assistant's answer incorrectly boxed the number 9 and listed an incorrect set of integers.
+
+Rating: [[0]]
+
+Evaluation for Question 2:
+
+The assistant's answer correctly rewrites the inequality |x + 10| < 5 as -5 < x + 10 < 5 and then subtracts 10 from both sides to find -15 < x < -5. However, the assistant then incorrectly calculates the number of integers in this range as 5 - (-1) = 6. The correct calculation should consider the integers from -14 to -6, inclusive, which results in 9 integers. The reference answer correctly identifies that there are 9 integers in the solution.
+
+Rating: [[0]]

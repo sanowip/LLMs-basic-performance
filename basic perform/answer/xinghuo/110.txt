@@ -1,0 +1,18 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Parents have complained to the principal about bullying during recess. The principal wants to quickly resolve this, instructing recess aides to be vigilant. Which situation should the aides report to the principal?
+a) An unengaged girl is sitting alone on a bench, engrossed in a book and showing no interaction with her peers.
+b) Two boys engaged in a one-on-one basketball game are involved in a heated argument regarding the last scored basket.
+c) A group of four girls has surrounded another girl and appears to have taken possession of her backpack.
+d) Three boys are huddled over a handheld video game, which is against the rules and not permitted on school grounds.
+[answer1]:
+Explain: The principal wants to quickly resolve this, instructing recess aides to be vigilant. The situation should be reported to the principal if it is a group of students involved in an aggressive or violent activity.
+Answer: c
+[refence1]:
+]The aides should report (c).
+[question2]
+:If the aides confront the group of girls from situation (c) and they deny bullying, stating that they were merely playing a game, what specific evidence should the aides look for to determine if this is a likely truth or a cover-up for bullying?
+[answer2]
+:The aides should look for evidence such as the victim's body language, facial expressions, and verbal responses during the incident. If the victim appears uncomfortable, scared, or upset, it may indicate that bullying is taking place. Additionally, if the group of girls is not allowing the victim to leave or is preventing her from interacting with other students, it could be a sign of bullying. The aides should also observe if the group of girls is consistently targeting the victim or if this is a one-time incident. Finally, the aides should ask other students who were present during the incident if they witnessed any bullying behavior.
+[refence2]:
+]

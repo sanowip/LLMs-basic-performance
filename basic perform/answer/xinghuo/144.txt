@@ -1,0 +1,17 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+What is the central dogma of molecular biology? What processes are involved? Who named this?
+[answer1]:
+The central dogma of molecular biology states that genetic information is passed from DNA to RNA, and then from RNA to protein. This process involves the transcription of DNA into RNA by RNA polymerase, followed by the translation of mRNA into protein by ribosomes. The term "central dogma" was coined by Francis Crick in 1958.
+[refence1]:
+]Genetic information flows from DNA to RNA to Protein. Three processes: replication, transcription, and translation. Francis Crick in 1958.
+[question2]
+:Identify and fix one incorrect fact in your previous response.
+[answer2]
+:The central dogma of molecular biology is a set of three interconnected processes that describe the flow of genetic information within a biological system. The processes are DNA replication, transcription, and translation.
+
+Incorrect fact: The central dogma was named by Francis Crick.
+
+Correction: The central dogma was actually proposed by Francis Crick in 1957, along with James Watson and Maurice Wilkins.
+[refence2]:
+]

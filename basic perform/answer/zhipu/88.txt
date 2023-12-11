@@ -1,0 +1,11 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Craft an intriguing opening paragraph for a fictional short story. The story should involve a character who wakes up one morning to find that they can time travel.
+[answer1]:
+ In the dead of night, a fierce lightning storm raged outside, its electric dance casting eerie shadows across the room. The persistent rumbling of thunder vibrated through the walls, creating an atmosphere of impending doom. Inside the modest apartment, 28-year-old Ava Thompson lay asleep, oblivious to the chaos unfolding beyond her windows. Little did she know that her life was about to change forever, as she woke up to discover an incredible ability that would propel her into a world of adventure and self-discovery: the power to time travel.
+[question2]
+:Summarize the story with three bullet points using only nouns and adjectives, without verbs.
+[answer2]
+: 1. Startling discovery
+2. Uncharted territories
+3. Emotional journey

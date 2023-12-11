@@ -1,0 +1,31 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Some people got on a bus at the terminal. At the first bus stop, half of the people got down and 4 more people got in. Then at the second bus stop, 6 people got down and 8 more got in. If there were a total of 25 people heading to the third stop, how many people got on the bus at the terminal?
+[answer1]:
+How many people are at the first stop? *  * At the first stop, 25 people are heading to the bus and half of them got down and 4 more got on so 25/2 = 12.5 people got on and 12.5 - 4 = 8.5 people didn't get on
+
+How many people are at the second stop? *  * At the second stop, 6 people got off and 8 more got on so 6 - 8 = -2 people got off and 8 + 6 = 14 more people got on so the total number of people on the bus at the second stop is 14-2=12
+
+How many people are at the terminal? *  * If there were a total of 25 people heading to the third stop, and 12 at the second stop, then 25-12 = 13 people got on at the third stop.
+
+#### 13
+[refence1]:
+]38 people
+[question2]
+:If the ticket is $2 per person, how much is the total money earned by the bus?
+[answer2]
+:How much did the people pay? *  * The total amount paid for the ticket is 25 * 2 = $50.
+
+How many people got on the bus? *  * There are 25 passengers on the bus.
+
+How many people got off at the second stop? *  * If 6 people got off at the second stop, the number of passengers remaining is 25 - 6 = 19
+
+How much did the people pay at the second stop? *  * If 8 more people got on at the second stop, the total number of passengers is 19 + 8 = 27
+
+How much is the total money earned by the bus? *  * The money earned from the 27 passengers is 27 * $2 = $54
+
+How much is the total money earned by the bus? *  * The total money earned by the bus is $50 + $54 = $104
+
+#### 104
+[refence2]:
+]Total number of passenger is 50 * 2 = $100

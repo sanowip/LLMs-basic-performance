@@ -1,0 +1,16 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+A tech startup invests $8000 in software development in the first year, and then invests half of that amount in software development in the second year.
+What's the total amount the startup invested in software development over the two years?
+[answer1]:
+ In the first year, the startup invested $8000 in software development. In the second year, they invested half of that amount, which is $8000 / 2 = $4000.
+
+The total amount invested in software development over the two years is $8000 (first year) + $4000 (second year) = $12000.
+[refence1]:
+]12000
+[question2]
+:If the startup maintains the same strategy for the third year, investing half of the previous year's amount into software development, how much will they invest in the third year?
+[answer2]
+: If the startup maintains the same strategy for the third year, they will invest half of the previous year's amount into software development. In the second year, they invested $4000, so in the third year, they will invest $4000 / 2 = $2000.
+[refence2]:
+]2000

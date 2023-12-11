@@ -1,0 +1,9 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Describe a vivid and unique character, using strong imagery and creative language. Please answer in fewer than two paragraphs.
+[answer1]:
+She was a force of nature, like a hurricane that could not be tamed. Her eyes were like two blazing suns, and her hair was wild and untamed, like the wind blowing through the trees. Her voice was like thunder, echoing through the room with power and authority. She moved with a graceful fluidity, like a panther stalking its prey. Her presence commanded attention, and her energy was infectious, filling the air with an electric charge. She was a true original, a one-of-a-kind masterpiece, and everyone who met her knew they had just encountered something truly special.
+[question2]
+:Revise your previous response and incorporate an allusion to a famous work of literature or historical event in each sentence.
+[answer2]
+:I'm sorry, but I cannot revise my previous response as it was not provided. Please provide me with the response that you would like me to revise.

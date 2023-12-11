@@ -1,0 +1,34 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Suggest five award-winning documentary films with brief background descriptions for aspiring filmmakers to study.
+[answer1]:
+ 1. "Icarus" (2017) - Directed by Bryan Fogel, this documentary exposes one of the greatest sports scandals in history. It follows the journey of Russian Olympic cyclist Grigory Rodchenkov, who reveals how he helped his country's athletes cheat the system by using banned substances. The film won the 2017 Academy Award for Best Documentary Feature.
+2. "Free Solo" (2018) - Directed by Elizabeth Chai Vasarhelyi and Jimmy Chin, this film follows Alex Honnold as he prepares to achieve his lifelong dream of free soloing the iconic El Capitan peak in Yosemite National Park. Capturing stunning visuals and nail-biting suspense, "Free Solo" won the 2019 Academy Award for Best Documentary Feature.
+3. "Citizenfour" (2014) - Directed by Laura Poitras, this documentary chronicles the story of Edward Snowden, the NSA contractor who leaked classified documents revealing massive government surveillance programs. The film earned an Oscar nomination for Best Documentary Feature and won the 2014 Golden Globe for Best Documentary.
+4. "The Cove" (2009) - Directed by Louie Psihoyos, this film exposes the hidden truth behind the capture and slaughter of dolphins in Taiji, Japan. "The Cove" won the 2010 Academy Award for Best Documentary Feature and was nominated for the 2010 Independent Spirit Award for Best Documentary.
+5. "Boyhood" (2014) - Directed by Richard Linklater, this groundbreaking documentary follows the life of a young boy from age 6 to 18. Filmed over 12 years, "Boyhood" offers a unique perspective on the passing of time and the challenges of growing up. The film won the 2014 Golden Globe for Best Documentary and was nominated for the 2015 Academy Award for Best Documentary Feature.
+[question2]
+:With the spirit in the first film, craft a succinct and persuasive pitch for a film about overcoming adversity.
+[answer2]
+: Title: "Resilience"
+
+Logline: "In the face of unimaginable challenges, discover the incredible true stories of everyday heroes who defied the odds and transformed their lives."
+
+Synopsis:
+"Resilience" is a powerful and inspiring documentary that delves into the lives of individuals who have overcome unthinkable adversity, showcasing their unyielding spirit and determination. By exploring their personal journeys, we witness the incredible strength of the human spirit and the importance of resilience in the face of hardship.
+
+Each chapter of the film profiles a different individual or community that has faced monumental challenges, from survivors of natural disasters to victims of abuse and neglect. As their stories unfold, we witness their courage, tenacity, and resilience in the face of seemingly insurmountable obstacles.
+
+Interweaving these inspiring tales with insights from experts in psychology, sports, and literature, "Resilience" offers a compelling exploration of the common threads that unite survivors and the strategies they employ to overcome their struggles. The film also emphasizes the importance of hope, friendship, and the human connection in the healing process.
+
+With breathtaking cinematography and immersive storytelling, "Resilience" will inspire audiences worldwide to embrace their inner strength and believe in the power of the human spirit to overcome any challenge.
+
+Target Audience:
+• Inspirational and motivational film enthusiasts
+• Fans of documentaries that showcase the human spirit
+• Audiences seeking emotional depth and uplifting stories
+
+Marketing Hooks:
+• "Discover the incredible true stories of everyday heroes who defied the odds."
+• "Explore the power of resilience and the human spirit in the face of adversity."
+• "Join us on a journey of hope, healing, and transformation."

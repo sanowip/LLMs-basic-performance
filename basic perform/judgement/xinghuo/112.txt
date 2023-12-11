@@ -1,0 +1,9 @@
+Evaluation of Answer 1:
+The assistant's answer is correct and aligns with the reference answer. The assistant correctly calculates the investment for the second year as half of the first year's investment and adds both years' investments to provide the total amount invested over two years. The assistant's response is helpful as it breaks down the calculation step by step, making it easy to understand.
+
+Rating for Answer 1: [[10]]
+
+Evaluation of Answer 2:
+The assistant's answer is incorrect. The assistant incorrectly states that the investment for the third year will be half of the total amount invested over the first two years ($12000), resulting in $6000. However, the question specifies that the startup invests half of the previous year's amount each subsequent year, not half of the total amount invested to date. The correct amount for the third year should be half of the second year's investment, which was $4000. Therefore, the third year's investment should be $4000/2 = $2000.
+
+Rating for Answer 2: [[0]]

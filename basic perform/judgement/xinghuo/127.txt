@@ -1,0 +1,9 @@
+Review of Answer 1:
+The assistant's answer provides a correct implementation of the Boyer-Moore Voting Algorithm to find the majority element in an array. However, the function in the assistant's answer does not correctly verify if the candidate is indeed the majority element and returns a list of occurrences of the candidate instead of the candidate itself. The reference answer correctly includes a verification step to ensure the candidate appears more than n/2 times in the array and returns the candidate if it is the majority element or None otherwise. The assistant's answer should be adjusted to include this verification step and return the correct output type.
+
+Rating for Answer 1: [[4]]
+
+Review of Answer 2:
+The assistant's answer to the second question does not provide a solution to finding the top-2 most occurring elements. The Boyer-Moore Voting Algorithm is specifically designed to find a majority element, not to find the top-2 most occurring elements. The reference answer correctly states that there is no simple modification of the Boyer-Moore Voting Algorithm for this purpose and suggests using a hash table to build a frequency map, then finding the top two most occurring elements. The assistant's response does not address the question and does not provide a viable solution.
+
+Rating for Answer 2: [[0]]

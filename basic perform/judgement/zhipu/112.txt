@@ -1,0 +1,9 @@
+Review of Answer 1:
+The assistant's answer to the first question correctly calculates the investment amounts for the first and second years and provides the correct total investment over the two years. The assistant's answer matches the reference answer, which confirms its accuracy.
+
+Rating for Answer 1: [[10]]
+
+Review of Answer 2:
+The assistant's answer to the second question correctly identifies the pattern of investment, which is to invest half the amount of the previous year. The assistant correctly calculates the investment for the third year based on the second year's investment of $4000, resulting in an investment of $2000 for the third year. This answer is in line with the reference answer provided.
+
+Rating for Answer 2: [[10]]

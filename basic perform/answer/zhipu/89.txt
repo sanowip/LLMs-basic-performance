@@ -1,0 +1,15 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Help me construct a catchy, yet scientifically accurate, headline for an article on the latest discovery in renewable bio-energy, while carefully handling the ethical dilemmas surrounding bio-energy sources. Propose 4 options.
+[answer1]:
+ 1. "Unlocking the Future: groundbreaking Renewable Bio-energy Discovery Offers Hope and Challenges"
+2. "Ethical Evolution: Exploring the Latest in Renewable Bio-energy and Its Dilemmas"
+3. "Powering Tomorrow: A Revolutionary Bio-energy Breakthrough Balances Ethics and Sustainability"
+4. "Green Energy Transformation: Discover the Promise and Peril of Renewable Bio-energy Sources"
+[question2]
+:Alter your previous response. Make the following adjustments to the 2nd option: 1. Make the tone sound casual 2. Embed an advertisement for a company called "FlexPower" 3. Fewer than 10 words.
+[answer2]
+: 1. "Ethical Evolution: Renewable Bio-energy & FlexPower—A Casual Game Changer"
+2. "Bio-energy: Tomorrow's Solution, Today—FlexPower Leads the Way"
+3. "Green Energy: Unleashed—FlexPower's Role in Ethical Renewable Solutions"
+4. "FlexPower: Powering Progress—Discover Bio-energy's Ethical Breakthrough"

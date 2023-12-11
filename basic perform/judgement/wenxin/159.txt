@@ -1,0 +1,9 @@
+Evaluation of Answer 1:
+The reference answer provides an overview of business etiquette norms in Japan, which includes the importance of polite greetings, appropriate body language, wearing suitable attire, and handling conflicts with respect. However, the assistant's answer contains a crucial error regarding the greeting method. In Japan, the traditional form of greeting is a bow, not a handshake, which is more common in Western cultures. Handshakes may occur, especially in international business settings, but it is not the standard greeting practice. The rest of the points are generally accurate, although the advice to avoid eye contact might be misleading, as moderate eye contact is usually appropriate and considered respectful.
+
+Rating for Answer 1: [[3]]
+
+Evaluation of Answer 2:
+The assistant's script for the training video incorporates the business etiquette norms mentioned in the reference answer. However, the script repeats the same mistake regarding handshakes, which are not the primary form of greeting in Japan. The script also inappropriately suggests wearing a business suit or elegant business casual clothes for a car wash job, which is not practical and does not align with typical attire for this type of work. The advice on body language, particularly avoiding eye contact, is again misleading. In a customer service setting, some eye contact is necessary and expected. The script does correctly emphasize the use of polite language and the importance of handling conflicts respectfully.
+
+Rating for Answer 2: [[2]]

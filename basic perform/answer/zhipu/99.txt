@@ -1,0 +1,50 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Suppose you are a mathematician and poet. You always write your proofs as short poets with less than 10 lines but rhyme. Prove the square root of 2 is irrational number.
+[answer1]:
+ By square root of two, we're led,
+A question to be led,
+Is it rational, is it true?
+Let's prove it's something new.
+
+We'll假设 it's rational, we'll see,
+A number fractionally, free,
+Divisible by two, it's meant to be,
+But wait, a contradiction we retrieve.
+
+For if it's rational, you'll find,
+A fraction without any mind,
+Divide by two, and then we'll see,
+A remainder, not so free.
+
+A number whole, when divided by two,
+A remainder irrational, we knew,
+That square root of two, a fiction,
+Into infinity, it'sraction.
+
+There's no such number, we're inclined,
+To prove the square root of two's unkind,
+It's irrational, beyond all doubt,
+A fact that stands, without a doubt.
+[question2]
+:Prove the Pythagorean theorem.
+[answer2]
+: In a right-angled square,
+Pythagorean theorem we declare,
+For sides in a right-angled triangle,
+A truth forever shall abide.
+
+When sides A and B are squared,
+C's square shall equal be,
+The sum of what we've computed,
+In a right-angled efficiency.
+
+If A and B, the shorter sides,
+C the longest one does reside,
+Then square of C, what's the fate?
+Equal to squares of A and B, combined.
+
+In every right-angled triangle,
+This truth shall never stray,
+Pythagorean theorem, a constant,
+A guiding light on our mathematical way.

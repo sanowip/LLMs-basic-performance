@@ -1,0 +1,19 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+David has three sisters. Each of them has one brother. How many brothers does David have?
+[answer1]:
+How many brothers does David have? *  * David has three sisters, each of whom has one brother. To determine how many brothers David has, we need to consider the siblings (2) and the children (3).
+
+How many brothers does David have? *  * Since there are three sisters, and each has a brother, then David has 3+1 = 4 brothers.
+
+#### 4
+[refence1]:
+]David has no brother. He is the one brother of his three sisters.
+[question2]
+:If we change the previous question and assume that each sister of David has two brothers, how many brothers would David have?
+[answer2]
+:How many brothers does David have? *  * If each of David's sisters has two brothers, then he has 3 * 2 = 6 brothers.
+
+#### 6
+[refence2]:
+]David has one brother.

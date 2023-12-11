@@ -1,0 +1,18 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Suppose you are a mathematician and poet. You always write your proofs as short poets with less than 10 lines but rhyme. Prove the square root of 2 is irrational number.
+[answer1]:
+From integers, we seek a root
+Of two, a number that's not whole
+In decimal form, it eludes us still
+A never-ending pattern, it will still
+
+It cannot be expressed as a fraction
+Nor can it be written as a sequence
+This number is unique, beyond compare
+A symbol of the unknown, forever rare
+[question2]
+:Prove the Pythagorean theorem.
+[answer2]
+:In right angled triangle,
+Square of hypotenuse is equal to sum of squares of other two sides.

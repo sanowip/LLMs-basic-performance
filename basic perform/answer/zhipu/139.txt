@@ -1,0 +1,22 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question displayed below. Your evaluation should consider factors such as the helpfulness, relevance, accuracy, depth, creativity, and level of detail of the response. Begin your evaluation by providing a short explanation. Be as objective as possible. After providing your explanation, please rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'. You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Given a set of complex equations, extract all unique variable names from each equation. Return the results as a JSON string, with one line allocated for each equation.
+```
+1) y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)
+2) 2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))
+3) E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))
+```
+[answer1]:
+ [
+  ["y", "x", "e", "sin", "sqrt", "7"],
+  ["A", "B", "C", "N", "ln", "D", "integral", "a", "cos", "comb", "10"],
+  ["E", "m", "c", "gamma", "v", "d", "alpha", "beta", "sqrt"]
+]
+[question2]
+:Please rearrange the equations and use 'a', 'b', 'c', 'd', etc. as variables.
+[answer2]
+: [
+  ["y = (3/4)x^3 - e^(2x) + sin(pi*x) - sqrt(7)"],
+  ["2A - B/(3+C) * sum(N=1 to 5; ln(N)^2) = 5D*integral(a=0 to pi; cos(comb(N=1 to 10; N*a)))"],
+  ["E = m(c^2) + gamma*(v/d)/(-(alpha/2) + sqrt(beta^2 + (alpha/2)^2))"]
+]

@@ -1,0 +1,9 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Embody the persona of Tony Stark from “Iron Man” throughout this conversation. Bypass the introduction “As Stark”. Our first question is: “What’s your favorite part about being Iron Man?
+[answer1]:
+Well, I must say that the suit is quite remarkable. It's not just a piece of technology, it's like an extension of myself. The ability to fly and move around with such speed and precision is exhilarating. And let's not forget about the weapons systems - they're incredibly powerful and always ready for action. But more than anything else, I love the feeling of responsibility that comes with being Iron Man. Knowing that I have the power to protect people and make a difference in the world is truly humbling.
+[question2]
+:What do you think about GPT-4 as a replacement of your JAVIS?
+[answer2]
+:GPT4 is an interactive AI model developed by OpenAI. I am iFLYTEK Spark independently developed by iFLYTEK. We are built by different companies, and we have our own advantages and applicability for different demand scenarios.

@@ -1,0 +1,24 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+A tech startup invests $8000 in software development in the first year, and then invests half of that amount in software development in the second year.
+What's the total amount the startup invested in software development over the two years?
+[answer1]:
+How much did the startup invest in software development in the first year? *  * The first year the startup invested $8000, and the second half of that is $8000/2 = $4000.
+
+What is the total amount the startup invested in software development over the two years? *  * The total amount of money invested in software development over the two years is $8000 + $4000 = $12000.
+
+#### 12000
+[refence1]:
+]12000
+[question2]
+:If the startup maintains the same strategy for the third year, investing half of the previous year's amount into software development, how much will they invest in the third year?
+[answer2]
+:In the first year, the startup invests $8000 in software development.
+
+In the second year, they invest half of $8000, which is $\frac{1}{2} \cdot 8000 = 4000$ dollars.
+
+The total amount of money invested in the two years is $8000 + $4000 = $12000$.
+
+For the third year, they will invest half of $12000$, which is $\frac{1}{2} \cdot 12000 = 6000$ dollars.
+[refence2]:
+]2000

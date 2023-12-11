@@ -1,0 +1,38 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Imagine you are writing a blog post comparing two popular smartphone models. Develop an outline for the blog post, including key points and subheadings to effectively compare and contrast the features, performance, and user experience of the two models. Please answer in fewer than 200 words.
+[answer1]:
+I. Introduction
+- Briefly introduce the two smartphone models being compared
+- State the purpose of the comparison and what readers can expect to learn
+
+II. Design and Display
+- Compare the design and build quality of the two phones
+- Discuss the display size, resolution, and technology used in each phone
+
+III. Performance and Hardware
+- Compare the processor, RAM, and storage capacity of the two phones
+- Discuss any other hardware features that may affect performance, such as battery life and charging speed
+
+IV. Camera
+- Compare the camera specs of the two phones, including megapixel count, aperture, and lens type
+- Discuss the user experience of using the cameras on each phone
+
+V. Software and User Experience
+- Compare the operating system and user interface of the two phones
+- Discuss any unique software features or customization options available on each phone
+
+VI. Price and Value
+- Compare the price of the two phones and discuss their value for money based on their features and performance
+
+VII. Conclusion
+- Summarize the key differences between the two phones and which one may be better suited for different types of users
+- Provide a final recommendation based on the comparison.
+[question2]
+:Take your previous response and rephrase it as a limerick.
+[answer2]
+:There once was a man from Peru
+Whose name was Pedro
+He loved to hike and climb
+And explore the land
+His spirit was free

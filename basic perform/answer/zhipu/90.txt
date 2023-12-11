@@ -1,0 +1,10 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+Edit the following paragraph to correct any grammatical errors:
+She didn't remembre where is her purse, so I thinks its in the car but he's say it's on kitchen table but he are not sure, and then they asked me to looking for it, she's say, "Can you?", and I responds with, "Maybe, but ain't no sure," and he not heard me, and, "What?", he asks, "Did you found it?".
+[answer1]:
+ She couldn't remember where her purse was, so I thought it was in the car, but he said it was on the kitchen table, though he wasn't sure. Then they asked me to look for it, and she said, "Can you?" I responded with, "Maybe, but I ain't sure," and he didn't hear me. He asked, "What? Did you find it?"
+[question2]
+:Modify your earlier reply and eliminate the use of gendered pronouns.
+[answer2]
+: They couldn't remember where their purse was, so I thought it was in the car, but they said it was on the kitchen table, though they weren't sure. Then they asked me to look for it, and they said, "Can you?" I responded with, "Maybe, but I ain't sure," and they didn't hear me. They asked, "What? Did you find it?"

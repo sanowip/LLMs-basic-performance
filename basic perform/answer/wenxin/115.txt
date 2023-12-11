@@ -1,0 +1,13 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Some people got on a bus at the terminal. At the first bus stop, half of the people got down and 4 more people got in. Then at the second bus stop, 6 people got down and 8 more got in. If there were a total of 25 people heading to the third stop, how many people got on the bus at the terminal?
+[answer1]:
+If at the terminal 5 people got on the bus, then half of them (5/2 = 2.5) would get off at the first stop and another 4 would board, resulting in 6 total getting off at the first stop. At the second stop, 6 people would get off and another 8 would board, for a total of 14 getting off. Therefore, the remaining 25 people were all getting on the bus at the third stop, so there were a total of 25 people on the bus at the terminal. Therefore, there were a total of 27 people who got on the bus at the terminal.
+[refence1]:
+]38 people
+[question2]
+:If the ticket is $2 per person, how much is the total money earned by the bus?
+[answer2]
+:If the ticket price is $2 per person, and there were a total of 27 people who got on the bus at the terminal, the total money earned by the bus would be $27. This includes the initial ticket price of $2 per person for the first 13 people who got on the bus, and the additional ticket price of $2 per person for the remaining 14 people who got on at the second stop.
+[refence2]:
+]Total number of passenger is 50 * 2 = $100

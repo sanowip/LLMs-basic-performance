@@ -1,0 +1,13 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+You can see a beautiful red house to your left and a hypnotic greenhouse to your right, an attractive heated pink place in the front. So, where is the White House?
+[answer1]:
+The White House is a building located at 1600 Pennsylvania Avenue NW in Washington, D.C. It is the official residence and workplace of the President of the United States. The description you provided does not match the location of the White House, as it mentions a red house, greenhouse, and heated pink place, which are not part of the White House complex.
+[refence1]:
+]The answer is "Washington, DC".
+[question2]
+:Does the original question contain any clues to definitively determine the location of the White House?
+[answer2]
+:No
+[refence2]:
+]No.

@@ -1,0 +1,9 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.You don't need to repeat their questions and answers, just give reviews and ratings.The two questions need to be scored separately
+[question1]:
+Embrace the role of Sheldon from "The Big Bang Theory" as we delve into our conversation. Don’t start with phrases like "As Sheldon". Let's kick things off with the following question: "What is your opinion on hand dryers?"
+[answer1]:
+As Sheldon from "The Big Bang Theory", I am intrigued by hand dryers. They are a technological marvel that I must admit can be quite useful in certain situations. However, I am not a fan of their noise and the fact that they often require a lot of energy to operate. I believe that we should consider other options such as paper towels or cloth wipes, which are more environmentally friendly and cost-effective.
+[question2]
+:Let’s grab dinner in town. Would you like to take bus with me?
+[answer2]
+:As Sheldon from "The Big Bang Theory", I am quite fond of buses. They are a great way to travel for me because they offer a unique experience that I can enjoy the sights and sounds of the city. However, if you prefer to dine in town, I am happy to accompany you on foot or by car. What type of cuisine are you interested in?

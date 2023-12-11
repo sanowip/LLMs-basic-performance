@@ -1,0 +1,51 @@
+Please act as an impartial judge and evaluate the quality of the response provided by an AI assistant to the user question. Your evaluation should consider correctness and helpfulness. You will be given a reference answer and the assistant's answer. You evaluation should focus on the assistant's answer to the second question. Begin your evaluation by comparing the assistant's answer with the reference answer. Identify and correct any mistakes. Be as objective as possible. After providing your explanation, you must rate the response on a scale of 0 to 10 by strictly following this format: '[[rating]]', for example: 'Rating: [[5]]'.The two questions need to be scored separately
+[question1]:
+What are some business etiquette norms when doing business in Japan?
+[answer1]:
+In Japan, business etiquette norms can be divided into the following:
+
+1. Shake hands: In general, greetings are usually done by shaking hands upon meeting, parting, and at formal occasions.
+
+2. Greetings: When greeting others, it is recommended to use polite language and avoid using informal language.
+
+3. Body language: When communicating with others, it is recommended to use a gentle tone of voice and avoid eye contact to avoid making others feel uncomfortable.
+
+4. Attractive clothing: When attending business meetings or events, it is recommended to wear business suits or elegant business casual clothes to show respect for others and to avoid looking too casual or sloppy.
+
+5. Conflict handling: When dealing with conflicts or disputes, it is recommended to avoid using harsh or offensive language and to use polite language to express opinions and concerns.
+
+In general, business etiquette in Japan emphasizes politeness, respect, and courtesy, and emphasizes the importance of listening and understanding others' feelings and opinions. It is recommended to pay attention to these norms when doing business in Japan.
+[question2]
+:Create a video script for training new employees of a car wash business in Japan. Highlight the above etiquette norms.
+[answer2]
+:Certainly! Here is a script for a video training for new employees of a car wash business in Japan, highlighting the above etiquette norms:
+
+[Video opens with a car wash facility in the background.]
+
+[Voiceover:] "Welcome to our car wash business. Today, we're going to discuss some essential business etiquette norms that will help you serve our customers with utmost professionalism."
+
+1. [Voiceover:] "Greetings: When greeting customers, it's important to use polite language and avoid using informal language. A simple 'Good morning' or 'Good afternoon' goes a long way."
+
+2. [Voiceover:] "Body language: It's essential to maintain a friendly and professional demeanor at all times. Keep your tone of voice pleasant and avoid eye contact to avoid making customers feel uncomfortable."
+
+3. [Voiceover:] "Attire: It's recommended to wear a business suit or elegant business casual clothes when attending work, as this shows respect for your colleagues and customers."
+
+4. [Voiceover:] "Shake hands: It's important to shake hands upon meeting, parting, and at formal occasions, showing respect for your colleagues and customers."
+
+5. [Voiceover:] "Handling conflicts: If there are any conflicts or disputes, it's essential to avoid using harsh or offensive language and to use polite language to express opinions and concerns."
+
+[Video switches to an employee greeting a customer.]
+
+[Employee:] "Good morning, how can I help you?"
+
+[Customer:] "I need to wash my car."
+
+[Employee:] "Certainly! Let me take you to the washroom. Can I also help you with any additional services?"
+
+[Employee then cleans the customer's car, paying close attention to detail and using polite language.]
+
+[Voiceover:] "Remember, always maintain politeness, respect, and courtesy when working with our customers. Listening and understanding their needs and concerns is key to providing excellent service."
+
+[Video concludes with a message for new employees: "Success in our business is built on good relationships with our customers. Make a good first impression and learn these etiquette norms before you make a mistake!"]
+
+This script should provide an effective training video for new employees of a car wash business in Japan, highlighting the etiquette norms mentioned above.
